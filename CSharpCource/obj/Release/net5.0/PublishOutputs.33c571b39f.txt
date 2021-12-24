@@ -1,0 +1,5 @@
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\publish\CSharpCource.exe
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\publish\CSharpCource.dll
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\publish\CSharpCource.deps.json
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\publish\CSharpCource.runtimeconfig.json
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\publish\CSharpCource.pdb

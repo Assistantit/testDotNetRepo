@@ -1,0 +1,16 @@
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\CSharpCource.exe
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\CSharpCource.deps.json
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\CSharpCource.runtimeconfig.json
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\CSharpCource.runtimeconfig.dev.json
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\CSharpCource.dll
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\ref\CSharpCource.dll
+C:\C#Lessons\1\CSharpCource\CSharpCource\bin\Release\net5.0\CSharpCource.pdb
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.csproj.AssemblyReference.cache
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.AssemblyInfoInputs.cache
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.AssemblyInfo.cs
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.csproj.CoreCompileInputs.cache
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.dll
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\ref\CSharpCource.dll
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.pdb
+C:\C#Lessons\1\CSharpCource\CSharpCource\obj\Release\net5.0\CSharpCource.genruntimeconfig.cache
